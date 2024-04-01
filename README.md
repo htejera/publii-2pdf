@@ -10,6 +10,8 @@ The `publii-2pdf` plugin adds a floating PDF download button to [Publii](https:/
 
 ![Publii to PDF Plugin ](https://github.com/htejera/publii-2pdf/blob/main/pdf-download.gif?raw=true)
 
+[Open demo](https://publii-2pdf.surge.sh/evariste-galois-the-revolutionary-mathematician-whose-legacy-transforms-algebra.html)
+
 ## Features
 
 - **Easy PDF Conversion**: Converts any post into a PDF with just one click.
