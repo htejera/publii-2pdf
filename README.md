@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/htejera/publii-2pdf/main/pdf-svgrepo-com.svg" width= "30%" height="30%" alt="Marquee Feed Plugin for Publii">
 </div>
 
-# Publii Post to PDF Plugin (publii-2pdf)
+# Post to PDF Publii Plugin (publii-2pdf)
 
 ## Description
 
