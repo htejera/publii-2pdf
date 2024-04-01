@@ -1,0 +1,50 @@
+{
+    "name": "Content to PDF Converter",
+    "description": "A Publii plugin that adds a floating button to posts, allowing users to convert the post content into a downloadable PDF file.",
+    "license": "MIT",
+    "author": "htejera",
+    "version": "1.0.0",
+    "scope": "site",
+    "minimumPubliiVersion": "0.40.0",
+    "usePluginSettingsView": false,
+    "messageInOptions": {
+        "type": "info",
+        "text": "Customize the plugin"
+    },
+    "config": [
+        {
+            "name": "pdfIconPosition",
+            "label": "Position of the PDF icon",
+            "note": "Choose whether the PDF download icon should appear on the left or right side of the screen.",
+            "group": "General Settings",
+            "value": "right",
+            "type": "select",
+            "options": [
+                {
+                    "label": "Right",
+                    "value": "right"
+                },
+                {
+                    "label": "Left",
+                    "value": "left"
+                }
+            ]
+        },
+        {
+            "name": "closeButtonBackgroundColor",
+            "label": "Close button background color",
+            "note": "Specify the background color for the close button.",
+            "group": "General Settings",
+            "value": "#000000", 
+            "type": "colorpicker"
+        },
+        {
+            "name": "closeButtonTextColor",
+            "label": "Close button text color",
+            "note": "Specify the text color for the close button.",
+            "group": "General Settings",
+            "value": "#FFFFFF", 
+            "type": "colorpicker"
+        }
+    ]
+}
