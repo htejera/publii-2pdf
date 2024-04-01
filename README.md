@@ -1,16 +1,20 @@
+<div align="center">
+  <img src="https://raw.githubusercontent.com/htejera/publii-2pdf/main/pdf-svgrepo-com.svg" width= "30%" height="30%" alt="Marquee Feed Plugin for Publii">
+</div>
+
 # Publii to PDF Plugin (publii-2pdf)
 
 ## Description
 
-The `publii-2pdf` plugin adds a floating PDF download button to Publii posts, enabling users to convert the post content into downloadable PDF files. This enhances user engagement and content accessibility, allowing readers to save or print articles for offline reading.
+The `publii-2pdf` plugin adds a floating PDF download button to [Publii](https://getpublii.com) posts, enabling users to convert the post content into downloadable PDF files. This enhances user engagement and content accessibility, allowing readers to save or print articles for offline reading.
+
+![Publii to PDF Plugin ](https://github.com/htejera/publii-2pdf/blob/main/pdf-download.gif?raw=true)
 
 ## Features
 
 - **Easy PDF Conversion**: Converts any post into a PDF with just one click.
 - **Customizable Button Position**: Users can configure the button to appear on the left or right side of the screen.
 - **User-friendly Design**: Includes a hover effect for transparency and an intuitive close button for minimal intrusion.
-
-## Installation
 
 ## Installation
 
@@ -26,6 +30,8 @@ Navigate to the plugin's settings within Publii to customize:
 - **PDF Icon Position**: Choose whether the PDF download icon should appear on the left or right side of the screen.
 - **Button Background Color**: Customize the background color of the close button.
 - **Text Color**: Set the color of the text within the close button.
+
+![Convert to PDF Plugin configuration](https://github.com/htejera/publii-2pdf/blob/main/plugin-configuration.png?raw=true)
 
 ## Usage
 
