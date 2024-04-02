@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/htejera/publii-2pdf/main/pdf-svgrepo-com.svg" width= "30%" height="30%" alt="Marquee Feed Plugin for Publii">
+  <img src="https://raw.githubusercontent.com/htejera/publii-2pdf/main/pdf-svgrepo-com.svg" width= "30%" height="30%" alt="Plugin for Publii">
 </div>
 
 # Post to PDF Publii Plugin (publii-2pdf)
@@ -9,6 +9,8 @@
 The `publii-2pdf` plugin adds a floating PDF download button to [Publii](https://getpublii.com) posts, enabling users to convert the post content into downloadable PDF files. This enhances user engagement and content accessibility, allowing readers to save or print articles for offline reading.
 
 ![Publii to PDF Plugin ](https://github.com/htejera/publii-2pdf/blob/main/pdf-download.gif?raw=true)
+
+[Open demo](https://publii-2pdf.surge.sh/evariste-galois-the-revolutionary-mathematician-whose-legacy-transforms-algebra.html)
 
 ## Features
 
