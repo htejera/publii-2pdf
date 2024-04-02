@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/htejera/publii-2pdf/main/pdf-svgrepo-com.svg" width= "30%" height="30%" alt="Marquee Feed Plugin for Publii">
+  <img src="https://raw.githubusercontent.com/htejera/publii-2pdf/main/pdf-svgrepo-com.svg" width= "30%" height="30%" alt="Plugin for Publii">
 </div>
 
 # Post to PDF Publii Plugin (publii-2pdf)
